@@ -1,0 +1,10 @@
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\bin\Debug\problemSet2_prob2.exe.config
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\bin\Debug\problemSet2_prob2.exe
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\bin\Debug\problemSet2_prob2.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\obj\Debug\problemSet2_prob2.csprojResolveAssemblyReference.cache
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\obj\Debug\problemSet2_prob2.Form1.resources
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\obj\Debug\problemSet2_prob2.Properties.Resources.resources
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\obj\Debug\problemSet2_prob2.csproj.GenerateResource.Cache
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\obj\Debug\problemSet2_prob2.exe
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\obj\Debug\problemSet2_prob2.pdb
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day3\problemSet2_prob2\problemSet2_prob2\bin\Debug\find_min_and_max.exe.config
